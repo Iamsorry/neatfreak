@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">連潔癖</string>
+    <string name="share_target_label">清理連結</string>
+    <string name="process_text_label">清理選取的連結</string>
+    <string name="tagline">將分享連結整理成乾淨、好讀的網址。</string>
+    <string name="input_label">連結或分享文字</string>
+    <string name="input_hint">貼上 Threads、Facebook、Instagram、LinkedIn、Spotify、Steam、YouTube 或其他網址</string>
+    <string name="paste">貼上</string>
+    <string name="clean_and_copy">清理並複製</string>
+    <string name="cleaning">正在清理連結…</string>
+    <string name="result_title">乾淨連結</string>
+    <string name="platform_label">辨識結果：%1$s</string>
+    <string name="removed_parameters">已移除：%1$s</string>
+    <string name="no_parameters_removed">沒有需要移除的追蹤參數。</string>
+    <plurals name="redirect_count">
+        <item quantity="other">已跟隨 %1$d 次轉址。</item>
+    </plurals>
+    <string name="copy">複製</string>
+    <string name="share">分享</string>
+    <string name="open">開啟</string>
+    <string name="copied">已複製乾淨連結</string>
+    <string name="paste_empty">剪貼簿中沒有文字。</string>
+    <string name="error_title">無法清理這個連結</string>
+    <string name="unsupported_action">沒有應用程式可以開啟這個連結。</string>
+    <string name="platform_threads">Threads</string>
+    <string name="platform_facebook">Facebook</string>
+    <string name="platform_facebook_external">Facebook 外連</string>
+    <string name="platform_instagram">Instagram</string>
+    <string name="platform_linkedin">LinkedIn</string>
+    <string name="platform_spotify">Spotify</string>
+    <string name="platform_steam">Steam</string>
+    <string name="platform_youtube">YouTube</string>
+    <string name="platform_amazon">Amazon</string>
+    <string name="platform_generic">一般網頁</string>
+</resources>

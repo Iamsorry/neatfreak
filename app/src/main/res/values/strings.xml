@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NeatFreak</string>
+    <string name="share_target_label">Clean link</string>
+    <string name="process_text_label">Clean selected link</string>
+    <string name="tagline">Turn shared links into neat, readable URLs.</string>
+    <string name="input_label">Link or shared text</string>
+    <string name="input_hint">Paste a Threads, Facebook, Instagram, LinkedIn, Spotify, Steam, YouTube, or other URL</string>
+    <string name="paste">Paste</string>
+    <string name="clean_and_copy">Clean &amp; copy</string>
+    <string name="cleaning">Cleaning link…</string>
+    <string name="result_title">Clean link</string>
+    <string name="platform_label">Detected: %1$s</string>
+    <string name="removed_parameters">Removed: %1$s</string>
+    <string name="no_parameters_removed">No tracking parameters needed removal.</string>
+    <plurals name="redirect_count">
+        <item quantity="one">Followed %1$d redirect.</item>
+        <item quantity="other">Followed %1$d redirects.</item>
+    </plurals>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="open">Open</string>
+    <string name="copied">Clean link copied</string>
+    <string name="paste_empty">The clipboard does not contain text.</string>
+    <string name="error_title">Couldn’t clean this link</string>
+    <string name="unsupported_action">No app can handle this link.</string>
+    <string name="platform_threads">Threads</string>
+    <string name="platform_facebook">Facebook</string>
+    <string name="platform_facebook_external">Facebook external link</string>
+    <string name="platform_instagram">Instagram</string>
+    <string name="platform_linkedin">LinkedIn</string>
+    <string name="platform_spotify">Spotify</string>
+    <string name="platform_steam">Steam</string>
+    <string name="platform_youtube">YouTube</string>
+    <string name="platform_amazon">Amazon</string>
+    <string name="platform_generic">Web link</string>
+</resources>

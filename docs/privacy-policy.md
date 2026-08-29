@@ -1,3 +1,9 @@
+---
+layout: default
+title: NeatFreak Privacy Policy
+permalink: /privacy-policy/
+---
+
 # NeatFreak（連潔癖）Privacy Policy／隱私權政策
 
 [繁體中文](#繁體中文) | [English](#english)
